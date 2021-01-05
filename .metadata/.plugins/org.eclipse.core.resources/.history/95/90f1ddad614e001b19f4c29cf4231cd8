@@ -1,0 +1,18 @@
+package ABC;
+
+import java.util.Scanner;
+
+
+
+public class C {
+static 	String str;
+static 	 int number;
+	
+	 public static void str() {
+		 Scanner sc = new Scanner(System.in);
+			System.out.println("글자를 입력해주세요");
+			c.str = sc.nextLine();
+			System.out.println("숫자를 입력해주세요");
+			 c.number = sc.nextInt();
+	 }
+}

@@ -1,0 +1,14 @@
+package ABC;
+
+import java.util.Scanner;
+
+public class B {
+	
+	public  static void a (C ca) {
+	
+	Scanner sc = new Scanner(System.in);
+	ca.str =sc.nextLine();
+	ca.i = sc.nextInt();
+	}
+	
+}

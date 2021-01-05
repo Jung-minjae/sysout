@@ -1,0 +1,9 @@
+package ABC;
+
+
+public class B {
+
+	C c = new C();
+	Scanner sc = new Scanner(System.in);
+
+}

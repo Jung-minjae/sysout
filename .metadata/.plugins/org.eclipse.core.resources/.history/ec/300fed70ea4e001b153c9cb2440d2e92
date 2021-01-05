@@ -1,0 +1,6 @@
+package ABC;
+
+public class C {
+	String str;
+	int number;
+}

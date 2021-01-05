@@ -1,0 +1,19 @@
+package ABC;
+
+import java.util.Scanner;
+
+public class B {
+
+	C Ce = new C();
+	Scanner sc = new Scanner(System.in);
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

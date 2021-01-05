@@ -1,0 +1,33 @@
+package Hudaphone;
+
+import java.util.Scanner;
+
+public class Phone_main {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		Book_list list = new Book_list();
+
+		Scanner sc = new Scanner(System.in);
+		boolean run = true;
+		int choice = sc.nextInt();
+
+		switch (choice) {
+		case 1:
+			System.out.println();
+
+			break;
+		case 2:
+			System.out.println();
+
+			break;
+
+		case 3:
+			System.out.println("사용종료하겠습니다");
+			run = !run;
+			break;
+		}
+
+	}
+
+}

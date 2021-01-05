@@ -1,0 +1,17 @@
+package Hudaphone;
+
+public class Book_list {
+	Book[] books;
+	int current;
+
+	public Book_list() {
+		this.books = new Book[5];
+		this.current=0;
+	
+		
+	
+
+		
+	
+	}
+}
