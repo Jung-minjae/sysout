@@ -22,7 +22,7 @@ public class Book_list {
 		System.out.println("e-mail을 입력하세요");
 		String email = sc.nextLine();
 		Book book = new Book();
-		
+
 		book.setName(name);
 		book.setNumber(number);
 		book.setEmail(email);
@@ -45,7 +45,7 @@ public class Book_list {
 			String number = book.number;
 			String email = book.email;
 			System.out.println("ㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡㅡ");
-			System.out.println(i+1+"번쨰 등록 ");
+			System.out.println(i + 1 + "번쨰 등록 ");
 			System.out.println("이름:\t" + book.getName());
 			System.out.println("번호:\t" + book.getNumber());
 			System.out.println("이메일:\t" + book.getEmail());
