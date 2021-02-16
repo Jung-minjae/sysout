@@ -1,7 +1,0 @@
-package Hudaphone;
-
-public class Book_list {
-	Book[] books;
-	
-
-}

@@ -1,7 +1,7 @@
 package Rent_Car;
 
 public class Car {
-	private String[] car_name = { "소나타", "그랜져", "K5", "아반떼" };// 대여차
+
 	private String name;// 대여한 사람이름
 	private int pick;
 	private String number;// 대여한사람 전화번호

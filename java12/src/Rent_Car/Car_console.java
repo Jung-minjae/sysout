@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Car_console {
 	private Car_list list = new Car_list();
-
+	private String[] car_name = { "소나타", "그랜져", "K5", "아반떼" };// 대여차
 	void input() {
 		String name;
 		String number;

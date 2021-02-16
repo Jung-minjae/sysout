@@ -1,9 +1,0 @@
-package Hudaphone;
-
-public class Book {
-	private String name;
-	private String number;
-	private String email;
-
-	private int current;
-}
